@@ -1,0 +1,134 @@
+.navbar
+{
+    background-color: #0112b8;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+.text
+{
+    display: inline-block;
+    margin: 0 30px;
+}
+.logo
+{
+    margin: 0 20px;
+}
+.bigbar
+{
+    backdrop-filter: blur(10px);
+    height: 600px;
+    width: 900px;
+    border-radius: 1%;
+    columns:2;
+}
+.img
+{
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/30adc2b4-60be-4108-8fcc-b1fa3e2ec8ec/dear9fy-30016b46-5f41-4253-b680-3908a2ed2083.jpg/v1/fill/w_1280,h_914,q_75,strp/the_monster_without_a_name_by_143yumemi_dear9fy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTE0IiwicGF0aCI6IlwvZlwvMzBhZGMyYjQtNjBiZS00MTA4LThmY2MtYjFmYTNlMmVjOGVjXC9kZWFyOWZ5LTMwMDE2YjQ2LTVmNDEtNDI1My1iNjgwLTM5MDhhMmVkMjA4My5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SAi4QRuhBXtnoBIY8hH7CwRd1q8IF8lwSSeRGOyDpmY);
+    width: 100%;
+    height: 100%;
+}
+.bbp
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+.qwerty
+{
+    margin-top: 30px;
+    color: rgba(1, 1, 1, 0);
+}
+.bbimg
+{
+    height: 550px;
+    width: 400px;
+    border-radius: 1%;
+    box-shadow: 0 0 0 2px #0112b8;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.qqq
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.bbtext
+{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.qw
+{
+    color: red;
+    margin-top: 100px;
+}
+.wewe
+{
+    margin-top: 100px;
+}
+.qwqw
+{
+    margin-top: 100px;
+}
+.bigbarer
+{
+    backdrop-filter: blur(10px);
+    height: 500px;
+    width: 350px;
+    border-radius: 2%;
+    columns:2;
+}
+.con
+{
+    backdrop-filter: blur(10px);
+    height: 450px;
+    width: 350px;
+    border-radius: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+img
+{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+.im
+{
+    margin-top: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qaqa
+{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-bottom: 40px;
+}
+.qwe
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white ;
+}
+.cvb
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
